@@ -6,7 +6,7 @@
 
 <br />
 
-Foram salvas as informações:
+Foram salvas as informações, com seus devidos tratamentos de erros. Passando em todos os testes propostos pelo desafio.
 
 - Nome da Pessoa
 - Nome do usuário
