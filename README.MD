@@ -11,7 +11,10 @@ Foram salvas as informações:
 - Nome da Pessoa
 - Nome do usuário
 - ToDo: 
-   - Título - Data final para complemento da tarefa - Situação se está completa ou não - Quando foi criado a Tarefa
+   - Título
+   - Data final para complemento da tarefa
+   - Situação se está completa ou não
+   - Quando foi criado a Tarefa
   </span>
 
 ## Contact
